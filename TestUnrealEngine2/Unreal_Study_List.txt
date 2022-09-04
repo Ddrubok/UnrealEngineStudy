@@ -3,3 +3,4 @@
 3. Collision
 4. soundBar
 5.setting last value
+6. when is start?
